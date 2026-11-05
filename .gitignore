@@ -1,17 +1,8 @@
-# Virtual environment
 venv/
-env/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Streamlit
+.env
 .streamlit/secrets.toml
-
-# IDE
 .vscode/
-
-# Operating system
 .DS_Store
 Thumbs.db
